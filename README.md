@@ -14,6 +14,8 @@ The required project files are provided.
 
 [Tarun Kota](http://www.cse.iitd.ac.in/~cs5120300/), Kanika khetawat, Deeksha Bansal and ofcourse [myself](http://www.cse.iitd.ac.in/~cs5120301)
 
-License
+# License
 
-A short snippet describing the license (MIT, Apache, etc.)
+Copyright (C) 2014  V.Bhargav
+
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
